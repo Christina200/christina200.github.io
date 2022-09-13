@@ -10,3 +10,5 @@ My research interest lies in embedded system design, especially sensing platform
 
 ### [Teaching](teaching.md)
 #### [Teaching assistant of General Chemistry @SJTU](https://github.com/Christina200/VC210-Recitation-Class)
+
+### [Reading](reading.md)
