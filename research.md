@@ -8,4 +8,4 @@
 ## [Parametric Human Model for Mobility Safety](https://mdp.engin.umich.edu/research_teams/adaptive-design-23/)
 1. Processed and landmarked medical images using image processing software (Mimics, HyperMesh) to quantify the 3D geometries of cervical spine. 
 2. Built statistical models using MATLAB and conducted mesh morphing to change a baseline model into personalized geometry targets.
-[Report](W22 C-Spine subteam Final Report.pdf)
+[Report](W22_C-Spine_Subteam_Final_Report.pdf)
