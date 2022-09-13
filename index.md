@@ -1,4 +1,4 @@
-## Xiwen Wei
+## Welcome!
 
 ### About Me
 Hi! My name is Xiwen (Christina) Wei. \
