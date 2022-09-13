@@ -3,7 +3,7 @@
 ### About Me 
 ##### [CV](XIWEN_WEI_Resume.pdf) | [Transcript@UM](XIWEN_WEI_Transcript.pdf) | [Transcrupt@SJTU](XIWEN_WEI_SJTU-Transcript.pdf)
 
-<img src="self_photo.JPG" alt="self" width="500"/> 
+<img src="self_photo.JPG" alt="self" width="300"/> 
 
 Hi! My name is Xiwen (Christina) Wei. \
 I'm a senior student pursuing dual degree: At [University of Michigan, Ann Arbor](https://eecs.engin.umich.edu/), I major in Electrical Engineering. At [SJTU](https://www.ji.sjtu.edu.cn/about/), I major in ECE. \
