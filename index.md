@@ -1,8 +1,12 @@
-## Welcome to Xiwen Wei's Github Page
+## Xiwen Wei
 
-### Project links
-#### C: [Data Strcuture &Algorithm](https://github.com/Christina200/Intro-to-algorithm-data-structure)
-#### C++: [Computer Organization](https://github.com/Christina200/Intro-to-Computer-Organization)
+### About Me
+Hi! My name is Xiwen (Christina) Wei. 
+I'm a senior student pursuing dual degree: At [University of Michigan, Ann Arbor](https://eecs.engin.umich.edu/), I major in Electrical Engineering. At SJTU, I major in ECE. 
+My research interest lies in embedded system design, especially sensing platform and IoT. I'm passionate to develop human-centered systems that help people in reality!
+### Research
 
-### Work Experience
-#### [Teaching assistant @SJTU](https://github.com/Christina200/VC210-Recitation-Class)
+### Projects
+
+### Teaching
+#### [Teaching assistant of General Chemistry @SJTU](https://github.com/Christina200/VC210-Recitation-Class)
