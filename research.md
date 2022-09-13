@@ -14,5 +14,5 @@
 \
 <img src="c_spine.png" alt="mdp" width="300"/> 
 1. Processed and landmarked medical images using image processing software (Mimics, HyperMesh) to quantify the 3D geometries of cervical spine. 
-2. Built statistical models using MATLAB and conducted mesh morphing to change a baseline model into personalized geometry targets.
+2. Built statistical models using MATLAB and conducted mesh morphing to change a baseline model into personalized geometry targets.\
 [Report](W22_C-Spine_Subteam_Final_Report.pdf)
