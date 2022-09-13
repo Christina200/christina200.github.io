@@ -6,7 +6,7 @@ I'm a senior student pursuing dual degree: At [University of Michigan, Ann Arbor
 My research interest lies in embedded system design, especially sensing platform and IoT. I'm passionate to develop human-centered systems that help people in reality!
 ### [Research](research.md)
 
-### [Projects](project.md)
+### [Projects](projects.md)
 
 ### Teaching
 #### [Teaching assistant of General Chemistry @SJTU](https://github.com/Christina200/VC210-Recitation-Class)
