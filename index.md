@@ -1,7 +1,7 @@
 ## Welcome!
 
 ### About Me 
-##### [CV](XIWEN_WEI_Resume.pdf) | [Transcript@UM](XIWEN_WEI_Transcript.pdf) | [Transcrupt@SJTU](XIWEN_WEI_SJTU-Transcript.pdf)
+##### [CV](CV_XiwenWei.pdf) | [Transcript@UM](XIWEN_WEI_Transcript.pdf) | [Transcrupt@SJTU](XIWEN_WEI_SJTU-Transcript.pdf)
 
 <img src="self_photo.JPG" alt="self" width="300"/> 
 
