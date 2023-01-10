@@ -1,9 +1,9 @@
 [Home](index.md)
 # Projects
 ## Ukulele Master
-<img src="Uke_Poster.jpg" alt="uke" width="500"/>
-
 [Report](Uke_Report.pdf)
+
+<img src="Uke_Poster.jpg" alt="uke" width="500"/>
 
 ## AI Liar's Dice
 [Poster](AI_Liar_Dice_Poster.jpg) &nbsp; [Report](AI_DICE_Final_Report.pdf)
