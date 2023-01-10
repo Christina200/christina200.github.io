@@ -3,7 +3,7 @@
 ## Ukulele Master
 [Report](Uke_Report.pdf)
 
-<img src="Uke_Poster.jpg" alt="uke" width="500"/>
+<img src="Uke_Poster.jpg" alt="uke" width="650"/>
 
 ## AI Liar's Dice
 [Poster](AI_Liar_Dice_Poster.jpg) &nbsp; [Report](AI_DICE_Final_Report.pdf)
