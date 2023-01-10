@@ -9,5 +9,6 @@ A real-world human-AI game. The computer is able to shake the dice cup & see its
 
 
 ## 8-Bit Dual-Mode Ripple-Carry Adder
-Final project of "Digital Integrated Circuit". \
 [Report](Adder.pdf)
+
+Final project of "Digital Integrated Circuit". 
