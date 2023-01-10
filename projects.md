@@ -2,6 +2,7 @@
 # Projects
 ## Ukulele Master
 <img src="Uke_Poster.jpg" alt="uke" width="500"/>
+
 [Report](Uke_Report.pdf)
 
 ## AI Liar's Dice
