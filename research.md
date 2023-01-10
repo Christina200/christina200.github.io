@@ -12,7 +12,7 @@
 ## [Parametric Human Model for Mobility Safety](https://mdp.engin.umich.edu/research_teams/adaptive-design-23/)
 *Advisor: [Jingwen Hu](https://www.umtri.umich.edu/people/hu-jingwen/) &nbsp; [Monica Jones](https://www.umtri.umich.edu/people/jones-monica/)*\
 \
-<img src="c_spine.png" alt="mdp" width="300"/> 
+<img src="MDP_Poster.jpg" alt="mdp" width="600"/> 
 1. Processed and landmarked medical images using image processing software (Mimics, HyperMesh) to quantify the 3D geometries of cervical spine. 
 2. Built statistical models using MATLAB and conducted mesh morphing to change a baseline model into personalized geometry targets.\
 [Report](W22_C-Spine_Subteam_Final_Report.pdf)
