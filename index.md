@@ -1,7 +1,7 @@
 ## Welcome!
 
-### About Me 
-##### [CV](CV_XiwenWei.pdf)
+### [About Me](index.md)
+#### [CV](CV_XiwenWei.pdf)
 
 <img src="personal_photo_informal.jpg" alt="self" width="400"/> 
 
@@ -13,5 +13,3 @@ My research interest lies in embedded system development for healthcare, IoT and
 ### [Projects](projects.md)
 
 ### [Teaching](teaching.md)
-
-<!-- ### [My Book List](reading.md) -->
