@@ -1,6 +1,6 @@
-[Home](index.md)
+## [Home](index.md)
 # Research
-## [M3 Monarch Challenge](https://monarch.engin.umich.edu/)
+# [M3 Monarch Challenge](https://monarch.engin.umich.edu/)
 *Advisor: [David Blaauw](https://blaauw.engin.umich.edu/)*\
 \
 <img src="monarch_timer.png" alt="momarch" width="500"/> 
@@ -9,7 +9,7 @@
 3. Gained experience working with embedded software developing, hardware debugging and miniature ultra-low-powered sensing platform. 
 
 
-## [Parametric Human Model for Mobility Safety](https://mdp.engin.umich.edu/research_teams/adaptive-design-23/)
+# [Parametric Human Model for Mobility Safety](https://mdp.engin.umich.edu/research_teams/adaptive-design-23/)
 *Advisor: [Jingwen Hu](https://www.umtri.umich.edu/people/hu-jingwen/) &nbsp; [Monica Jones](https://www.umtri.umich.edu/people/jones-monica/)*\
 \
 <img src="MDP_Poster.jpg" alt="mdp" width="600"/> 
