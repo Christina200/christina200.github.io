@@ -3,7 +3,7 @@
 # [M3 Monarch Challenge](https://monarch.engin.umich.edu/)
 *Advisor: [David Blaauw](https://blaauw.engin.umich.edu/)*\
 \
-<img src="monarch_timer.png" alt="momarch" width="500"/> 
+<img src="monarch_timer.png" alt="momarch" width="600"/> 
 1. Troubleshot the crystal timer failure and reduced the sensors’ error by 90%.
 2. Implemented & tested a PID controller to calibrate a compensation timer.
 3. Gained experience working with embedded software developing, hardware debugging and miniature ultra-low-powered sensing platform. 
