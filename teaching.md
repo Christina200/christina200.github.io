@@ -1,4 +1,4 @@
-[Home](index.md)
+## [Home](index.md)
 # Teaching
 ## Instructional Aide of [EECS300: Electrical Engineering Systems Design II](https://ece.engin.umich.edu/academics/course-information/course-descriptions/eecs-300/)
 1. Organizing weekly lab sessions and help students with lab tasks. 
