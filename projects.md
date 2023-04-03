@@ -1,4 +1,4 @@
-##[Home](index.md)
+## [Home](index.md)
 # Projects
 # Ukulele Master
 [Poster](Uke_Poster.jpg) &nbsp;[Report](Uke_Report.pdf)
